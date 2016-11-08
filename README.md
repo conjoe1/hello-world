@@ -1,2 +1,5 @@
 # hello-world
-tutorial
+
+Hi People 
+
+this is connor and i like to do coding for my university project
